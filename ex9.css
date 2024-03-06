@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color: white;
+    font: normal 20pt Arial;
+    margin: auto;
+    text-align: center;
+}    
+
+header{
+    font:normal 40pt Arial;
+    margin: 50px auto 0;
+}
+
+section{
+    background-color: rgb(42, 80, 163);
+    border-radius: 10px 30px 30px 10px;
+    width: 600px;
+    text-align: center;
+    font: normal 15pt Arial;
+    margin: 50px auto 0;
+    padding: 50px;
+}
+
+footer{
+    margin: 50px auto 0;
+    font-style: italic;
+}

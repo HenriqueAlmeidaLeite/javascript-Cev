@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(20, 17, 20);
+    text-align: center;
+    font: normal 14pt Arial;
+    color:rgb(41, 139, 139);
+    
+}
+section{
+    background-color: rgb(41, 139, 139);
+    border-radius: 15px;
+    padding: 80px 40px;
+    width: 500px;
+    margin: auto;
+    color: rgb(20, 17, 20);
+    font:normal 18pt Arial;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+div#text01{
+    padding: 5px;
+    color: rgb(20, 17, 20);
+}
+
+div#texto2{
+    top: 10px;
+
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
